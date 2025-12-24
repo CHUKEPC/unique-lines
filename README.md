@@ -38,7 +38,7 @@ Unique Lines — это простой и эффективный скрипт д
 1. **Клонируйте репозиторий:**
 ```bash
 git clone https://github.com/CHUKEPC/unique-lines.git
-cd unique_lines
+cd unique-lines
 ```
 
 2. **Готово!** Дополнительные зависимости не требуются.
